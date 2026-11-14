@@ -1,0 +1,5 @@
+{
+  "name": "koi-dark",
+  "owner": { "name": "Botoskar" },
+  "plugins": [{ "name": "koi-dark", "source": "./" }]
+}
